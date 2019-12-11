@@ -3,11 +3,10 @@ h1 {
 }
 
 
-img alt="logo"{
+img.logo {
 float: left;
-height: 500px;
-margin-left: 200px;
-margin-right: 20px;
+height: 400px;
+margin-left: 120px;
 }
 input{
 float: right;
@@ -36,6 +35,7 @@ display: table-row;
 }
 form p{
 display: table-row;
+padding:10px;
 }
 
 form img alt="socmed"{
