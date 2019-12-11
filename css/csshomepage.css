@@ -16,7 +16,8 @@ img {
       margin: 0 auto;
       padding: 20px;
       border-radius: 130px;
-      width: 600px;
-      margin-bottom: 10%;
-      margin-center: 10%;
+      width: 150px;
+      margin-bottom: 5%;
+      margin-center: 5%;
     }
+    div{ column-count: 3}
