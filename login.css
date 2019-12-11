@@ -1,40 +1,39 @@
-
-      h1 {
-        text-align: center;
+h1 {
+  text-align: center;
 }
 
 
 img alt="beachfront"{
-  float: left;
-  width: 700px;
-  height: 400px;
-  margin-right: 20px;
+float: left;
+width: 700px;
+height: 400px;
+margin-right: 20px;
 }
 input{
-  float: right;
-  width: 200px;
-  height: 50px;
-  padding: 10px;
-  margin: 10px;
+float: right;
+width: 200px;
+height: 50px;
+padding: 10px;
+margin: 10px;
 }
 button{
-  float: right;
+float: right;
 }
 
 form {
-  display: table;
+display: table;
 }
 form div{
-  display: table-row;
+display: table-row;
 }
 form p{
-  display: table-row;
+display: table-row;
 }
 
 form img alt="socmed"{
-  display: table-row;
+display: table-row;
 }
 
 form{
-  float:right;
+float:right;
 }
