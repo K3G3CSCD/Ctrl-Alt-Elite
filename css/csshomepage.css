@@ -20,6 +20,9 @@ img {
       width: 150px;
       margin-bottom: 5%;
       margin-center: 5%;
+      font-family: sans-serif;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
     }
     div{ column-count: 3}
 cursor: pointer;
