@@ -17,9 +17,12 @@ padding: 10px;
 margin: 10px;
 margin-right: 500px;
 }
-button{
+button.login{
 float: right;
-margin: 10px;
+padding: 10px;
+}
+button.signup{
+  float: right;
 }
 
 form {
@@ -34,6 +37,7 @@ display: table-row;
 
 form img alt="socmed"{
 display: table-row;
+margin-right: 10px;
 }
 
 form{
