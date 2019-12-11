@@ -1,8 +1,40 @@
-<div class="container">
-  <div class="row">
-    <div class="col-1-6"></div>
-    <div class="row">
-      <div class="col-7-12"></div>
-      h1, h2 {
+
+      h1 {
         text-align: center;
-      }
+}
+
+
+img alt="beachfront"{
+  float: left;
+  width: 700px;
+  height: 400px;
+  margin-right: 20px;
+}
+input{
+  float: right;
+  width: 200px;
+  height: 50px;
+  padding: 10px;
+  margin: 10px;
+}
+button{
+  float: right;
+}
+
+form {
+  display: table;
+}
+form div{
+  display: table-row;
+}
+form p{
+  display: table-row;
+}
+
+form img alt="socmed"{
+  display: table-row;
+}
+
+form{
+  float:right;
+}
