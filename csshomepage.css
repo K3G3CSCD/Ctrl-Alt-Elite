@@ -1,6 +1,6 @@
 
 body { font-family: sans-serif;
-      }
+      background-size: cover;}
 h1 { text-align: center;
     font-size: 45px;
     }
@@ -11,7 +11,7 @@ img {
           margin: 0 auto;
           padding: 20px;
           border-radius: 130px;
-          width: 300px;
+          width: 10px;
           margin-bottom: 10%;
           margin-left: 5%;
         }
