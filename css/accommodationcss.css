@@ -31,4 +31,5 @@ div.Privatesec{
   flex-direction: column;
 }
 
-button {font-size: 20px;}
+button {font-size: 20px;
+        float: right;}
