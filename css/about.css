@@ -1,0 +1,88 @@
+h1 {
+  text-align: center;
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+}
+p {
+  text-align: center;
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul.peach {
+  background-color: rgb(255, 189, 189);
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+  text-align: center;
+}
+ul.purple {
+  background-color: rgb(201, 201, 255);
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+  text-align: center;
+}
+ul.red {
+  background-color: rgb(254, 94, 81);
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+  text-align: center;
+}
+ul.green {
+  background-color: rgb(225, 247, 213);
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+  text-align: center;
+}
+ul.orange {
+  background-color: rgb(255, 181, 84);
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+  text-align: center;
+  }
+ul.teal{
+  background-color: rgb(54, 171, 181);
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+  text-align: center;
+  }
+ul.yellow{
+  background-color: rgb(255, 255, 159);
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+  text-align: center;
+    }
+ul.darkpurple{
+  background-color: rgb(85, 69, 98);
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+  text-align: center;
+  }
+ul.pink{
+  background-color:rgb(241, 203, 255);
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+  text-align: center;
+  }
+ul.lime{
+  background-color: rgb(165, 255, 165);
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+  text-align: center;
+  }
+ul.grey{
+  background-color: rgb(171, 177, 207);
+  font-family:"Lucida Console",sans-serif;
+  line-height: 30px;
+  text-align: center;
+  }
+  body {
+    font-family: sans-serif;
+  }
+  div.contact{
+    color: gray;
+    text-align: center;
+}
