@@ -42,3 +42,6 @@ ul.lime{
 ul.grey{
   background-color: rgb(171, 177, 207);
   }
+  body {
+    font-family: sans-serif;
+  }
