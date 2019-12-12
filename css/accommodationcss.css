@@ -38,3 +38,8 @@ button {font-size: 13px;
         font-family:"Lucida Console",sans-serif;
         float: right;
       }
+  
+    div.contact{
+      color: gray;
+      text-align: center;
+  }

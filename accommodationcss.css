@@ -28,3 +28,8 @@ div.Privatesec {
   align-items: center;
   flex-direction: column;
 }
+
+div.contact{
+  color: gray;
+  text-align: center;
+}
