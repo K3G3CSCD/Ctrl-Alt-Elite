@@ -9,3 +9,36 @@ img.center {
   margin-left: auto;
   margin-right: auto;
 }
+ul.peach {
+  background-color: rgb(255, 189, 189);
+}
+ul.purple {
+  background-color: rgb(201, 201, 255);
+}
+ul.red {
+  background-color: rgb(254, 94, 81);
+}
+ul.green {
+  background-color: rgb(225, 247, 213);
+}
+ul.orange {
+  background-color: rgb(255, 181, 84);
+  }
+ul.teal{
+  background-color: rgb(54, 171, 181);
+  }
+ul.yellow{
+  background-color: rgb(255, 255, 159);
+    }
+ul.darkpurple{
+  background-color: rgb(85, 69, 98);
+  }
+ul.pink{
+  background-color:rgb(241, 203, 255);
+  }
+ul.lime{
+  background-color: rgb(165, 255, 165);
+  }
+ul.grey{
+  background-color: rgb(171, 177, 207);
+  }
