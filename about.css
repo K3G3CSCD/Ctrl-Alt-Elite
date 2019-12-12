@@ -79,3 +79,6 @@ ul.grey{
   line-height: 30px;
   text-align: center;
   }
+  body {
+    font-family: sans-serif;
+  }

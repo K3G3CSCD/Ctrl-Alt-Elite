@@ -10,17 +10,17 @@ h1 {
 
 img.logo {
 float: left;
-height: 400px;
-width: auto;
+height: auto;
+width: 50%;
 margin-left: 1px;
 }
 input{
 float: right;
-width: 200px;
+width: 200px
 height: 50px;
 padding: 10px;
 margin: 10px;
-margin-right: 500px;
+margin-right: 400px;
 }
 button.login{
 float: right;
